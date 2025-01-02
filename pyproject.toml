@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "load-large-files"
+version = "0.1.0"
+description = "just a sample to deal with LFS"
+authors = ["Charles Duarte <140444382+linduarte@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
